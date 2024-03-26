@@ -1,6 +1,6 @@
 # Node.js Terminal Application for OpenAI's Assistants API
 
-This repository contains a Node.js terminal application designed to facilitate interactive conversations using OpenAI's GPT-4-turbo. It leverages the OpenAI API to create dynamic and intelligent responses based the users documents.
+This repository contains a Node.js terminal application designed to facilitate interactive conversations using OpenAI's GPT-4-turbo. It leverages the OpenAI API to create dynamic and intelligent responses based on the users documents.
 
 ## Features
 
